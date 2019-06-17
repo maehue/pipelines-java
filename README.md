@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/maehue/javademo/_apis/build/status/maehue.pipelines-java?branchName=master)](https://dev.azure.com/maehue/javademo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
